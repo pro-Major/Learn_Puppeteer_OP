@@ -1,0 +1,30 @@
+{
+  "name": "learn_puppeteer_op",
+  "version": "1.0.0",
+  "description": "Automation with Puppeteer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-Major/Learn_Puppeteer_OP.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Mocha",
+    "Chai",
+    "Automation"
+  ],
+  "author": "Bipin Navik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pro-Major/Learn_Puppeteer_OP/issues"
+  },
+  "homepage": "https://github.com/pro-Major/Learn_Puppeteer_OP#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "prettier": "^2.2.1",
+    "puppeteer": "^8.0.0"
+  }
+}
