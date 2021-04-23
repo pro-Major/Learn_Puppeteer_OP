@@ -2,7 +2,7 @@
   "name": "learn_puppeteer_op",
   "version": "1.0.0",
   "description": "Automation with Puppeteer ",
-  "main": "index.js",
+  "main": "irctc.js",
   "scripts": {
     "test": "test/index"
   },
